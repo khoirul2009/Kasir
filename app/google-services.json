@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887161141907",
+    "firebase_url": "https://kasir-c24f6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kasir-c24f6",
+    "storage_bucket": "kasir-c24f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887161141907:android:bbf7ca139ae70888a4eb66",
+        "android_client_info": {
+          "package_name": "com.khoirul.kasir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887161141907-mv3ijuui3hgt1gik39r7givide33to55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJLs5yogl7UKMzRz1O-v9vqM8xp5C6l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887161141907-mv3ijuui3hgt1gik39r7givide33to55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
